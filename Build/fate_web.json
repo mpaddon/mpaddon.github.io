@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Fate Is Inexorable",
+"dataUrl": "fate_web.data.unityweb",
+"wasmCodeUrl": "fate_web.wasm.code.unityweb",
+"wasmFrameworkUrl": "fate_web.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
